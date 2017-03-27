@@ -1,0 +1,22 @@
+{
+  "name": "legit-mockingbird",
+  "version": "1.0.0",
+  "description": "schema-response validation tool",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avidus3r/legit-mockingbird.git"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "joi": "^10.3.0",
+    "request": "^2.81.0"
+  }
+}
